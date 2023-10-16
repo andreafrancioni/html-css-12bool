@@ -5,8 +5,15 @@ body{
 
 .box {
     background: rgb(20, 220, 160);
-    border: solid 3px white;
     padding: 0.75rem;
     color: rgb(102, 102, 102);
     height: 100%;
 }
+
+/* BONUS COLOR */
+.bg-black {background-color: black;}
+.bg-brown {background-color: rgb(107, 74, 2);}
+.bg-green {background-color: green;}
+.bg-beige {background-color: rgb(221, 192, 95);}
+.bg-white {background-color: white;}
+
